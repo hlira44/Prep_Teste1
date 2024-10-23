@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prep_Teste1</string>
+    <string name="msg1" translatable="true">The year must be between 1900 and 2024</string>
+    <string name="msg2">Portugues</string>
+    <string name="botao_erro">Botao_erro\n</string>
+    <string name="botao_ok">botao_ok\n</string>
+</resources>
